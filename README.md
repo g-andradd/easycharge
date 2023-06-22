@@ -18,7 +18,7 @@ O Easycharge é um projeto que permite gerir as dívidas e cobranças dos client
 
 ## Configuração e Instalação
 1. Clone o repositório do Easycharge:
-git clone https://github.com/seu-usuario/easycharge.git
+git clone https://github.com/g-andradd/easycharge.git
 
 2. Acesse o diretório do projeto:
 cd easycharge
